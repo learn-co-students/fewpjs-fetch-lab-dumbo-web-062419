@@ -14,7 +14,7 @@ function renderBooks(books) {
   })
 }
 
-// THIS IS EVENT LISTENER
+// THIS IS EVENT LISTENER ---> >
 document.addEventListener('DOMContentLoaded', function() {
   fetchBooks()
 })
